@@ -1,0 +1,6 @@
+out/
+.idea/
+*.class
+encrypted.txt
+decrypted.txt
+*.docx
